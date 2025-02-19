@@ -1,25 +1,25 @@
 ########################### Default parameters ######################
 logo = "images/logo.png"
-logo_width = "149px"
-logo_footer = "images/logo-alt.png"
-favicon = "images/favicon.png"
+logo_width = "150px"
+logo_footer = "images/logo.png"
+favicon = "images/logofavicon.png"
 # top header
-top_header = true
+top_header = false
 # Meta data
-description = "This is meta description"
+description = "Photo, video and broadcast with custom equipped motorcycles."
 author = "Themefisher"
 # contact info
-address = "9567 Turner Trace Apt. BC C3G8A4"
-mobile = "+211234565523"
-email = "info@bexer.com"
+address = "Auckland, New Zealand"
+mobile = ""
+email = "contact@motocam.nz"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # Google Analitycs
 google_analitycs_id = "" # your id
 # page sidebar quick contact form
-quick_contact = true
+quick_contact = false
 # search
-search = true
+search = false
 
 # Main section
 mainSections = ["blog"]
@@ -31,20 +31,20 @@ preloader = "" # use jpg, png, svg or gif format.
 
 # Navigation button
 [navigation_button]
-enable = true
+enable = false
 label = "get a quote"
 link = "contact/"
 
 # Subscription
 [subscription]
-enable = true
+enable = false
 # mailchimp subsciption
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
 
 # google map
 [gmap]
-enable = true
+enable = false
 gmap_api = "AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
@@ -54,16 +54,4 @@ map_marker_name = "Bexer"
 ########################### social icon ############################
 [[social]]
 icon = "fab fa-facebook"
-link = "https://facebook.com/themefisher"
-
-[[social]]
-icon = "fab fa-twitter"
-link = "https://twitter.com/themefisher"
-
-[[social]]
-icon = "fab fa-github"
-link = "https://github.com/themefisher"
-
-[[social]]
-icon = "fab fa-instagram"
-link = "https://instagram.com/themefisher"
+link = "https://www.facebook.com/Motocam.NZ"
