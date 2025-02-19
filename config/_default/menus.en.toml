@@ -56,12 +56,12 @@ hasChildren = true
   weight = 4
 
 # footer menu
-[[footer]]
-name = "Terms of Service"
-url = "terms/"
-weight = 1
+#[[footer]]
+#name = "Terms of Service"
+#url = "terms/"
+#weight = 1
 
-[[footer]]
-name = "Privacy Policy"
-url = "privacy-policy/"
-weight = 2
+#[[footer]]
+#name = "Privacy Policy"
+#url = "privacy-policy/"
+#weight = 2
