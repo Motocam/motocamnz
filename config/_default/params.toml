@@ -1,8 +1,8 @@
 ########################### Default parameters ######################
-logo = "images/logo.png"
+logo = "logo.png"
 logo_width = "149px"
-logo_footer = "images/logo.png"
-favicon = "images/logofavicon.png"
+logo_footer = "logo.png"
+favicon = "logofavicon.png"
 # top header
 top_header = false
 # Meta data
