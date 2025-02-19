@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Motocam.NZ | Home
 content_blocks:
   - id: get a quote
     content_type: block_call_to_action
