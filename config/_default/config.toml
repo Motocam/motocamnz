@@ -1,4 +1,5 @@
 ######################## default configuration ####################
+baseURL = "https://motocamnz.pages.dev/en/"
 title = "Motocam.NZ"
 theme = "bexer-hugo"
 # post pagination
