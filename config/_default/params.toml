@@ -1,7 +1,7 @@
 ########################### Default parameters ######################
 logo = "logo.png"
-logo_width = "149px"
-logo_footer = "logo.png"
+logo_width = "200px"
+logo_footer = ""
 favicon = "logofavicon.png"
 # top header
 top_header = false
