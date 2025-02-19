@@ -29,15 +29,6 @@ outputFormats:
   WebAppManifest:
     mediaType: application/manifest+json
     rel: manifest
-languages:
-  en:
-    languageName: ""
-    languageCode: ""
-    contentDir: content/english
-    weight: 1
-    home: home
-    copyright: All Rights Reserved © 2025
-    footer_content: '**Photo, video and broadcast with custom equipped motorcycles.**'
 params:
   debugprint: true
   logo: Motocam.nz.png
