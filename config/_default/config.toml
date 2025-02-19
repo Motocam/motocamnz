@@ -1,6 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://demo.gethugothemes.com/bexer/site/"
-title = "Bexer - Hugo Business Theme"
+title = "Motocam.NZ"
 theme = "bexer-hugo"
 # post pagination
 paginate = "6"
