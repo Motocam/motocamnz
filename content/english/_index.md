@@ -111,8 +111,8 @@ content_blocks:
       Motorcycles need a lot less operating room than cars and can follow
       runners and cyclists more easily, even interacting for more engaging
       footage.
-    bg_image: /20241104_180158.jpg
-    image: 20241104_180158.jpg
+    bg_image: 20241104_180158.jpg
+    image: /20241104_180158.jpg
     style: ImageLeft
 content_blocks_below_main: []
 description: ''
