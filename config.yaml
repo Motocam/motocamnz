@@ -6,8 +6,14 @@ theme:
 paginate: '6'
 summaryLength: '10'
 googleAnalytics: ''
-disableLanguages: []
-defaultContentLanguage: en
+languages:
+  en:
+    disabled: false
+    languageCode: ""
+    languageDirection: ""
+    languageName: ""
+    title: ""
+    weight: 0
 outputs:
   home:
     - HTML
