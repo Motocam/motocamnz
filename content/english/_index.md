@@ -11,7 +11,7 @@ content_blocks:
       label: Download now
       link: https://github.com/wearetechnative/quiqr-template-bexer-remix
     resources: []
-    bg_image: WhatsApp Image 2024-12-14 at 14.12.05_0c4f51b0.jpg
+    bg_image: IM_bg_image.jpg
     disabled: false
   - disabled: false
     content_type: block_123
